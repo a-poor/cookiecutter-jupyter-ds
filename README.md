@@ -19,3 +19,4 @@ Then, the jupyter container can be started with
 $ docker-compose up
 ```
 
+Docker will expose port `8888` for Jupyter.
